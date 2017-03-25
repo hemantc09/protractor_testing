@@ -16,8 +16,9 @@ test script file name : script1_test_userLogin.js
     test case 4  - blank user name verification [negative testing]
     test case 5  - blank password verification [negative testing]
     test case 6  - the login button is present on login page
-    ================================================================
-    
+   
+   
+    =================================================================================================== 
 <h2>
 Protrctor testing for javascript website:
 config file name: conf_JS_only.js
