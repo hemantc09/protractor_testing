@@ -20,8 +20,8 @@ test script file name : script1_test_userLogin.js
     
 <h2>
 Protrctor testing for javascript website:
-config file name: conf.js
-test script file name : script1_test_userLogin.js
+config file name: conf_JS_only.js
+test script file name : script2_test_is_onlyWebsite.js
 </h2>
    <b> URL reference: http://www.acme.eu/en-us</b>
    
